@@ -13,4 +13,5 @@
   <li><a href="https://leetcode.com/problems/valid-anagram/">E</a> | <a href="the_riddles/242_valid_anagram">Valid anagram</a> ©️</li>
   <li><a href="https://leetcode.com/problems/plus-one">E</a> | <a href="the_riddles/66_plus_one">Plus One</a> ©️</li>
   <li><a href="https://leetcode.com/problems/sign-of-the-product-of-an-array/">E</a> | <a href="the_riddles/1822_sign_of_product_of_an_array">Sign of the product of an Array</a> ©️</li>
+  <li><a href="https://leetcode.com/problems/length-of-last-word">E</a> | <a href="the_riddles/58_length_of_last_word">Length of the last word</a> ©️</li>
 </ol>
