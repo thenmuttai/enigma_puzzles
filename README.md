@@ -11,4 +11,5 @@
   <li><a href="https://leetcode.com/problems/find-the-difference/">E</a> | <a href="the_riddles/389_find_the_difference">Find the difference</a> ©️</li>
   <li><a href="https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/">E</a> | <a href="the_riddles/28_find_index_of_first_occurrence_in_string">Find the index of the first occurrence in a string</a> ©️</li>
   <li><a href="https://leetcode.com/problems/valid-anagram/">E</a> | <a href="the_riddles/242_valid_anagram">Valid anagram</a> ©️</li>
+  <li><a href="https://leetcode.com/problems/plus-one">E</a> | <a href="the_riddles/66_plus_one">Plus One</a> ©️</li>
 </ol>
