@@ -16,4 +16,5 @@
   <li><a href="https://leetcode.com/problems/length-of-last-word">E</a> | <a href="the_riddles/58_length_of_last_word">Length of the last word</a> ©️</li>
   <li><a href="https://leetcode.com/problems/to-lower-case">E</a> | <a href="the_riddles/709_to_lower_case">To lower case</a> ©️</li>
   <li><a href="https://leetcode.com/problems/reverse-linked-list">E</a> | <a href="the_riddles/206_reverse_linked_list">Reverse Linked list</a> ©️</li>
+  <li><a href="https://leetcode.com/problems/add-two-numbers">E</a> | <a href="the_riddles/2_add_two_numbers">Add two numbers</a> ©️</li>
 </ol>
