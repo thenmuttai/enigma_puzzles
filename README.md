@@ -18,4 +18,5 @@
   <li><a href="https://leetcode.com/problems/reverse-linked-list">E</a> | <a href="the_riddles/206_reverse_linked_list">Reverse Linked list</a> ©️</li>
   <li><a href="https://leetcode.com/problems/add-two-numbers">E</a> | <a href="the_riddles/2_add_two_numbers">Add two numbers</a> ©️</li>
   <li><a href="https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/">E</a> | <a href="the_riddles/1523_count_odd_number_in_interval_range">Count odd numbers in an interval range</a> ©️</li>
+  <li><a href="https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/">E</a> | <a href="the_riddles/1491_average_salary_excluding_min_and_max_salaries">Average salary excluding min & max salaries</a> ©️</li>
 </ol>
