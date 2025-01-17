@@ -21,4 +21,5 @@
   <li><a href="https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/">E</a> | <a href="the_riddles/1491_average_salary_excluding_min_and_max_salaries">Average salary excluding min & max salaries</a> ©️</li>
   <li><a href="https://leetcode.com/problems/lemonade-change">E</a> | <a href="the_riddles/860_lemonade_change">Lemonade change</a> ©️</li>
   <li><a href="https://leetcode.com/problems/largest-perimeter-triangle/">E</a> | <a href="the_riddles/976_largest_perimeter_triangle">Largest perimeter triangle</a> ©️</li>
+  <li><a href="https://leetcode.com/problems/check-if-it-is-a-straight-line">E</a> | <a href="the_riddles/1232_check_if_its_straight_line">Check if it's a straight line</a> ©️</li>
 </ol>
