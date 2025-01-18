@@ -23,4 +23,31 @@
   <li><a href="https://leetcode.com/problems/largest-perimeter-triangle/">E</a> | <a href="the_riddles/976_largest_perimeter_triangle">Largest perimeter triangle</a> ©️</li>
   <li><a href="https://leetcode.com/problems/check-if-it-is-a-straight-line">E</a> | <a href="the_riddles/1232_check_if_its_straight_line">Check if it's a straight line</a> ©️</li>
   <li><a href="https://leetcode.com/problems/baseball-game">E</a> | <a href="the_riddles/682_baseball_game">Baseball game</a> ©️</li>
+  <li><a href="https://leetcode.com/problems/robot-return-to-origin">E</a> | <a href="the_riddles/657_robot_return_to_origin">Robot return to the origin</a> ©️</li>
 </ol>
+
+
+---
+
+
+<h6>PROBLEMS | <a href="https://leetcode.com/">LC</a></h6>
+
+
+```
+                        .--.   |V|
+                       /    \ _| /   Vanakkam!!!
+                       q .. p \ /
+                        \--/  //
+                       __||__//
+                      /.    _/
+                     // \  /
+                    //   ||
+                    \\  /  \
+                     )\|    |
+                    / || || |
+                    |/\| || |
+                       | || |
+                       \ || /
+                     __/ || \__
+_\|/__|_\|/____\|/_ \____/\____/ _\|/__|_\|/____\|/_
+```
