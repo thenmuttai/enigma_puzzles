@@ -1,6 +1,6 @@
 <div align=center>
-  <h2>enigma_puzzles</h2>
-  Logical teasers and riddles
+  <h2>:mermaid: Enigma Puzzles</h2>
+  Logical Teasers & Riddles
 </div>
  
 
@@ -25,6 +25,7 @@
   <li><a href="https://leetcode.com/problems/baseball-game">E</a> | <a href="the_riddles/682_baseball_game">Baseball game</a> ©️</li>
   <li><a href="https://leetcode.com/problems/robot-return-to-origin">E</a> | <a href="the_riddles/657_robot_return_to_origin">Robot return to the origin</a> ©️</li>
   <li><a href="https://leetcode.com/problems/monotonic-array/">E</a> | <a href="the_riddles/896_monotonic_array">Monotonic array</a> ©️</li>
+  <li><a href="https://leetcode.com/problems/richest-customer-wealth">E</a> | <a href="the_riddles/1672_richest_customer_wealth">Richest customer wealth</a> ©️</li>
 </ol>
 
 
