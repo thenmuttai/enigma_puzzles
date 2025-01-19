@@ -26,6 +26,7 @@
   <li><a href="https://leetcode.com/problems/robot-return-to-origin">E</a> | <a href="the_riddles/657_robot_return_to_origin">Robot return to the origin</a> ©️</li>
   <li><a href="https://leetcode.com/problems/monotonic-array/">E</a> | <a href="the_riddles/896_monotonic_array">Monotonic array</a> ©️</li>
   <li><a href="https://leetcode.com/problems/richest-customer-wealth">E</a> | <a href="the_riddles/1672_richest_customer_wealth">Richest customer wealth</a> ©️</li>
+  <li><a href="https://leetcode.com/problems/matrix-diagonal-sum">E</a> | <a href="the_riddles/1572_matrix_diagonal_sum">Matrix diagonal sum</a> ©️</li>
 </ol>
 
 
