@@ -24,6 +24,7 @@
   <li><a href="https://leetcode.com/problems/check-if-it-is-a-straight-line">E</a> | <a href="the_riddles/1232_check_if_its_straight_line">Check if it's a straight line</a> ©️</li>
   <li><a href="https://leetcode.com/problems/baseball-game">E</a> | <a href="the_riddles/682_baseball_game">Baseball game</a> ©️</li>
   <li><a href="https://leetcode.com/problems/robot-return-to-origin">E</a> | <a href="the_riddles/657_robot_return_to_origin">Robot return to the origin</a> ©️</li>
+  <li><a href="https://leetcode.com/problems/monotonic-array/">E</a> | <a href="the_riddles/896_monotonic_array">Monotonic array</a> ©️</li>
 </ol>
 
 
