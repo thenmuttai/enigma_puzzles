@@ -28,6 +28,7 @@
   <li><a href="https://leetcode.com/problems/richest-customer-wealth">E</a> | <a href="the_riddles/1672_richest_customer_wealth">Richest customer wealth</a> ©️</li>
   <li><a href="https://leetcode.com/problems/matrix-diagonal-sum">E</a> | <a href="the_riddles/1572_matrix_diagonal_sum">Matrix diagonal sum</a> ©️</li>
   <li><a href="https://leetcode.com/problems/spiral-matrix">M</a> | <a href="the_riddles/21_spiral_matrix">Spiral matrix</a> ©️</li>
+  <li><a href="https://leetcode.com/problems/roman-to-integer/">E</a> | <a href="the_riddles/13_roman_to_int">Roman to Integer</a> ©️</li>
 </ol>
 
 
