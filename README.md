@@ -36,7 +36,10 @@
 ---
 
 
-<h6>PROBLEMS | <a href="https://leetcode.com/">LC</a></h6>
+<h6>STACK | <a href="https://neetcode.io/roadmap">REF1</a> <a href="https://algomap.io/">REF2</a></h6>
+<ol start="0">
+  <li><a href="https://leetcode.com/problems/valid-parentheses/">E</a> | <a href="the_riddles/20_valid_parenthesis">Valid paranthesis</a> ©️</li>
+</ol>
 
 
 ```
