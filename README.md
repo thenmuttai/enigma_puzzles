@@ -30,6 +30,7 @@
   <li><a href="https://leetcode.com/problems/spiral-matrix">M</a> | <a href="the_riddles/21_spiral_matrix">Spiral matrix</a> ©️</li>
   <li><a href="https://leetcode.com/problems/roman-to-integer/">E</a> | <a href="the_riddles/13_roman_to_int">Roman to Integer</a> ©️</li>
   <li><a href="https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence">E</a> | <a href="the_riddles/1502_can_make_ap_from_sequence">Can make arithmetic progression from a sequence</a> ©️</li>
+  <li><a href="https://leetcode.com/problems/merge-two-sorted-lists/">E</a> | <a href="the_riddles/21_merged_two_sorted_list">merged 2 sorted list</a> ©️</li>
 </ol>
 
 
