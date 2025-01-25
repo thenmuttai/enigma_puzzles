@@ -32,6 +32,7 @@
   <li><a href="https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence">E</a> | <a href="the_riddles/1502_can_make_ap_from_sequence">Can make arithmetic progression from a sequence</a> ©️</li>
   <li><a href="https://leetcode.com/problems/merge-two-sorted-lists/">E</a> | <a href="the_riddles/21_merged_two_sorted_list">merged 2 sorted list</a> ©️</li>
   <li><a href="https://leetcode.com/problems/add-two-numbers-ii/">M</a> | <a href="the_riddles/445_add_two_numbers_II">Add two numbers II</a> ©️</li>
+  <li><a href="https://leetcode.com/problems/move-zeroes">E</a> | <a href="the_riddles/238_move_zeros">Move zeroes</a> ©️</li>
 </ol>
 
 
