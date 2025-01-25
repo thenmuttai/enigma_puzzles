@@ -1,11 +1,11 @@
 <div align=center>
-  <h2>:mermaid: Enigma Puzzles</h2>
+  <h2>:mermaid: Enigma Puzzles :palm_tree:</h2>
   Logical Teasers & Riddles
 </div>
  
 
-<h6>TRACKER | <a href="https://1drv.ms/x/c/cbde7499c4ca2e8c/EZAt2w_Zyd1GmF71id8q2b0BkEsUJ72D2reFDeS4QhiAlA?e=OCjvfc">SHEET</a></h6>
-<h6>PROGRAMMING SKILLS | <a href="https://leetcode.com/studyplan/programming-skills/">LC</a></h6>
+<h6>:dog2: TRACKER | <a href="https://1drv.ms/x/c/cbde7499c4ca2e8c/EZAt2w_Zyd1GmF71id8q2b0BkEsUJ72D2reFDeS4QhiAlA?e=OCjvfc">SHEET</a></h6>
+<h6>:camel: PROGRAMMING SKILLS | <a href="https://leetcode.com/studyplan/programming-skills/">LC</a></h6>
 <ol start="0">
   <li><a href="https://leetcode.com/problems/merge-strings-alternately/">E</a> | <a href="the_riddles/1768_merge_strings_alternatively">Merge string alternatively</a> ©️</li>
   <li><a href="https://leetcode.com/problems/find-the-difference/">E</a> | <a href="the_riddles/389_find_the_difference">Find the difference</a> ©️</li>
@@ -38,7 +38,7 @@
 ---
 
 
-<h6>STACK | <a href="https://neetcode.io/roadmap">REF1</a> <a href="https://algomap.io/">REF2</a></h6>
+<h6>:elephant: STACK | <a href="https://neetcode.io/roadmap">REF1</a> <a href="https://algomap.io/">REF2</a></h6>
 <ol start="0">
   <li><a href="https://leetcode.com/problems/valid-parentheses/">E</a> | <a href="the_riddles/20_valid_parenthesis">Valid paranthesis</a> ©️</li>
   <li><a href="https://leetcode.com/problems/min-stack/">M</a> | <a href="the_riddles/155_min_stack">Min Stack</a> ©️</li>
